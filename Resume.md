@@ -1,12 +1,12 @@
 Heather Biehl
 ===========
 ----------
-1020 Belmont Ave E
-Seattle, WA 98102
-(360)-631-7125
-heather.e.biehl@gmail.com
- [repl.it](https://repl.it/@hbiehl)
-[Github](https://github.com/hbiehl0)
+1020 Belmont Ave E. 
+Seattle, WA 98102. 
+(360)-631-7125. 
+heather.e.biehl@gmail.com. 
+[repl.it](https://repl.it/@hbiehl). 
+[Github](https://github.com/hbiehl0). 
 -----------
  Education
 ------------
